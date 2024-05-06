@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Launch Pad Starter 🚀
 
 Welcome to **Coding Liquids' Complete Flutter Guide: Build Android, iOS, and Web by Coding Liquids!** This journey kicks off with the **Launch Pad Music App**, an immersive musical experience created by Sagnik Bhattacharya. As part of the "Complete Flutter Guide 2024: Build Android, iOS, and Web apps" course, this app allows you to dive into a world of unique sounds through interactive pads. It's not just an app; it's your first step into the Flutter universe!
@@ -15,3 +16,6 @@ Enroll in the course today and take your first step into the expansive world of 
 ### Connect with Sagnik
 
 Want to know more about the creator behind this project? Connect with Sagnik Bhattacharya on [LinkedIn](https://www.linkedin.com/in/sagnik-bhattacharya-916b9463/) and dive deeper into the world of coding and innovation.
+=======
+# LaunchPad_flutter
+>>>>>>> 7b51cd1f884b390bc3ade875a77016db2eed900c
